@@ -1,0 +1,13 @@
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\bin\Debug\netcoreapp3.1\Course_5 Lesson_1.exe
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\bin\Debug\netcoreapp3.1\Course_5 Lesson_1.deps.json
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\bin\Debug\netcoreapp3.1\Course_5 Lesson_1.runtimeconfig.json
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\bin\Debug\netcoreapp3.1\Course_5 Lesson_1.runtimeconfig.dev.json
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\bin\Debug\netcoreapp3.1\Course_5 Lesson_1.dll
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\bin\Debug\netcoreapp3.1\Course_5 Lesson_1.pdb
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.csproj.AssemblyReference.cache
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.AssemblyInfoInputs.cache
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.AssemblyInfo.cs
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.dll
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.pdb
+C:\Users\kolem\Desktop\Сourses\GB course 5\Course_5 Lesson_1\Course_5 Lesson_1\obj\Debug\netcoreapp3.1\Course_5 Lesson_1.genruntimeconfig.cache
